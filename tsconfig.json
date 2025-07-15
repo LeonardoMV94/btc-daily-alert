@@ -8,6 +8,24 @@
     },
     {
       "path": "./apps/mailer"
+    },
+    {
+      "path": "./apps/telegram-e2e"
+    },
+    {
+      "path": "./apps/telegram"
+    },
+    {
+      "path": "./scraper-e2e"
+    },
+    {
+      "path": "./scraper"
+    },
+    {
+      "path": "./apps/scraper-e2e"
+    },
+    {
+      "path": "./apps/scraper"
     }
   ]
 }
